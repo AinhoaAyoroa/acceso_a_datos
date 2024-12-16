@@ -1,0 +1,32 @@
+{"blockchain": {"bloques": [
+    {"bloque": {
+        "propietario": "JASB",
+        "transacciones": [
+            {"transaccion": {
+                "origen": "a",
+                "destino": "b",
+                "importe": 15.2
+            }},
+            {"transaccion": {
+                "origen": "a",
+                "destino": "c",
+                "importe": -9.33
+            }}
+        ],
+        "numbloque": "1"
+    }},
+    {"bloque": {
+        "propietario": "ROOT",
+        "transacciones": [{"transaccion": {
+            "origen": "n1",
+            "destino": "n10",
+            "importe": 5888.22
+        }}],
+        "numbloque": "2"
+    }},
+    {"bloque": {
+        "propietario": "DAM",
+        "transacciones": [],
+        "numbloque": "3"
+    }}
+]}}

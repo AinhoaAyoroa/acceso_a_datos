@@ -1,0 +1,6 @@
+bloque 1 jasb
+transaccion 1 a b 15.0
+transaccion 1 a c -9.33
+bloque 2 dam
+transaccion 2 n1 n5 12.0
+bloque 3 root
