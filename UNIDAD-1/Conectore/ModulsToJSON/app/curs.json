@@ -1,0 +1,34 @@
+{
+    "curs": [
+        {
+            "hores": 6,
+            "nom": "Accés a Dades",
+            "nota": 8.45
+        },
+        {
+            "hores": 3,
+            "nom": "Programació de serveis i processos",
+            "nota": 9
+        },
+        {
+            "hores": 6,
+            "nom": "Desenvolupament d'interfícies",
+            "nota": 8
+        },
+        {
+            "hores": 5,
+            "nom": "Programació Multimèdia i dispositiud mòbils",
+            "nota": 7.34
+        },
+        {
+            "hores": 5,
+            "nom": "Sistemes de Gestió Empresarial",
+            "nota": 8.2
+        },
+        {
+            "hores": 3,
+            "nom": "Empresa i iniciativa emprenedora",
+            "nota": 7.4
+        }
+    ]
+}
