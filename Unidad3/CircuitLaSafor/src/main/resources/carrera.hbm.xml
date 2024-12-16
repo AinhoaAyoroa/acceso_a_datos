@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="hibernate.carrera" table="Carrera">
+        <id column="id" name="id" type="int">
+            <generator class="native"/>
+        </id>
+        <property name="nom" type="string"/>
+        <property name="localitat" />
+        <property name="distancia_km" type="int" />
+        <property name="organitzador" type="long" />
+        <property name="num_participants" />        
+    </class>
+</hibernate-mapping>

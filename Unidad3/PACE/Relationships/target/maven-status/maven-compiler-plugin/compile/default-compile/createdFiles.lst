@@ -1,0 +1,9 @@
+com/ieseljust/relationships/models/Professor.class
+com/ieseljust/relationships/models/Engine.class
+com/ieseljust/relationships/models/Modul.class
+com/ieseljust/relationships/models/Libro.class
+com/ieseljust/relationships/models/Autor.class
+com/ieseljust/relationships/Relationships.class
+com/ieseljust/relationships/utils/HibernateUtil.class
+com/ieseljust/relationships/models/Car.class
+com/ieseljust/relationships/models/Grup.class

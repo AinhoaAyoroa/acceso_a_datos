@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+  "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="hibernate.Runner" table="Runner" >
+        <id column="id" name="idCorredor" type="int">
+            <generator class="native"/>
+        </id>
+        <property name="dni" type="string"/>
+        <property name="nom" type="string"/>
+        <property name="cognoms" type="string"/>
+        <property name="edat" type="int"/>
+        <property name="dorsal" type="long"/>
+        <property name="categoria" type="string"/>
+        <property name="localitat" type="string"/>
+        <property name="email" type="string"/>
+    </class>
+</hibernate-mapping>
