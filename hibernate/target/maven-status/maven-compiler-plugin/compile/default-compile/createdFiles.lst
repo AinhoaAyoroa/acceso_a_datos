@@ -1,0 +1,5 @@
+com/mycompany/hibernate/Hibernate.class
+com/mycompany/hibernate/HibernateUtil.class
+com/mycompany/hibernate/Tablas/runner.class
+com/mycompany/hibernate/Tablas/categoria.class
+com/mycompany/hibernate/Tablas/carrera.class
